@@ -7,6 +7,6 @@ This repository provides datasets for published results in the field of ultrafas
 - Experimental and numerical data from peer-reviewed publications
 - Structured datasets for different wavelength regions
 - Metadata and references for reproducibility
-- **Example:** An interactive graph showcasing sample data is available [on our webpage](https://www.puls.ruhr-uni-bochum.de/puls/research/SWIR.html.en).
+- **Examples:** Interactive graphs showcasing the data for the 1 micron and 2 micron wavelength regions are available [on our webpage](https://www.puls.ruhr-uni-bochum.de), [here](https://www.puls.ruhr-uni-bochum.de/puls/research/NIR.html.en) and [here](https://www.puls.ruhr-uni-bochum.de/puls/research/SWIR.html.en).
 
-We encourage collaboration and contributions to expand this repository. If you use the data, please cite the corresponding publications.
+We encourage collaboration and contributions to expand this repository. If you use the data, please cite the corresponding publications and this repository.
